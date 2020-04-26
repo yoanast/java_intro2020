@@ -10,7 +10,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        int battery = 0;
+        int battery = 4;
         typeOfObstacle(battery);
     }
 
