@@ -314,6 +314,7 @@ public class ArrayOperations {
                 visualizeArray(array);
                 break;
             case 11:
+                System.out.print("Масивът изглежда така: ");
                 visualizeArray(array);
                 break;
             case 12:
