@@ -285,7 +285,9 @@ public class ArrayOperations {
                 visualizeArray(array);
                 break;
             case 3:
+                ascendingOrderSorting(array);
                 binarySearch(array, scanner);
+                visualizeArray(array);
                 break;
             case 4:
                 shufflePositions(array);
